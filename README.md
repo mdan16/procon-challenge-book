@@ -1,2 +1,2 @@
 # procon-challenge-book
-study repository for programming contest challenge book
+蟻本用の勉強リポジトリです。ファイル名はページ番号です。
